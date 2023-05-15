@@ -21,13 +21,13 @@
 ### TypeScript/JavaScript
 
 ```bash
-npm install cdk-validator-kics
+npm install @checkmarx/cdk-validator-kics
 ```
 
 ### Python
 
 ```bash
-pip install cdk-validator-kics
+pip install @checkmarx/cdk-validator-kics
 ```
 
 ### Java
@@ -50,7 +50,7 @@ dotnet add package CdklabsCdkValidatorKics --version X.X.X
 ### Go
 
 ```bash
-go get cdk-validator-kics-go
+go get @checkmarx/cdk-validator-kics-go
 ```
 
 ## Usage
